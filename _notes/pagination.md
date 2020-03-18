@@ -1,0 +1,9 @@
+
+
+## Django side
+
+
+
+## React side
+
+
